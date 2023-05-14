@@ -1,0 +1,4 @@
+Plazo Fijo: https://datos.gob.ar/dataset/sspm-principales-tasas-interes
+Dolar Blue: https://www.ambito.com/contenidos/dolar-informal-historico.html
+Dolar Oficial: https://es.investing.com/currencies/usd-ars-historical-data
+Unflacion USD: https://www.usinflationcalculator.com/monthly-us-inflation-rates-1913-present/
